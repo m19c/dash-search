@@ -7,8 +7,12 @@ dash-search
 ```sh
 d angular.isArray
 ```
+...opens the [Dash Application][dashLink].
 
-Opens the [Dash Application][dashLink].
+# Install
+```sh
+npm install -g dash-search
+```
 
 # License
 Copyright (c) 2015 Marc Binder <marcandrebinder@gmail.com>
