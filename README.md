@@ -1,13 +1,18 @@
 [dashLink]: https://kapeli.com/dash
 
 dash-search
-========
+===========
 `d` (also known as `dash-search`) allows you to query the locally installed [Dash for MAC][dashLink] instance.
 
 ```sh
-d angular.isArray
+d ng forEach
 ```
 ...opens the [Dash Application][dashLink].
+
+# Usage
+```sh
+d [docSet] query
+```
 
 # Install
 ```sh
