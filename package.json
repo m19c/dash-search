@@ -1,5 +1,5 @@
 {
-  "name": "dash-cli",
+  "name": "dash-search",
   "version": "1.0.0",
   "author": "Marc Binder <marcandrebinder@gmail.com>",
   "main": "./lib/dash",
@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MrBoolean/dash-cli.git"
+    "url": "https://github.com/MrBoolean/dash-search.git"
   },
   "bugs": {
-    "url": "https://github.com/MrBoolean/dash-cli/issues"
+    "url": "https://github.com/MrBoolean/dash-search/issues"
   },
   "keywords": ["dash", "mac", "documentation", "docs"],
   "preferGlobal": true,

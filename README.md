@@ -1,8 +1,8 @@
 [dashLink]: https://kapeli.com/dash
 
-dash-cli
+dash-search
 ========
-`d` (also known as `dash-cli`) allows you to query the locally installed [Dash for MAC][dashLink] instance.
+`d` (also known as `dash-search`) allows you to query the locally installed [Dash for MAC][dashLink] instance.
 
 ```sh
 d angular.isArray
