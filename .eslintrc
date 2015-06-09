@@ -23,6 +23,7 @@
     "key-spacing": "always",
     "no-underscore-dangle": "never",
     "yoda": "always",
-    "consistent-return": "never"
+    "consistent-return": "never",
+    "no-process-exit": "never"
   }
 }

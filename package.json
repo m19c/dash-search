@@ -1,8 +1,15 @@
 {
   "name": "dash-cli",
+  "version": "1.0.0",
+  "main": "./lib/dash",
+  "bin": {
+    "d": "./index.js"
+  },
+  "dependencies": {
+    "yargs": "~3.10.0"
+  },
   "devDependencies": {
-    "gulp": "*",
-    "gulp-mocha": "*",
-    "gulp-eslint": "*"
+    "gulp": "~3.9.0",
+    "gulp-eslint": "~0.13.2"
   }
 }
