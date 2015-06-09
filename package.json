@@ -1,6 +1,6 @@
 {
   "name": "dash-search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Marc Binder <marcandrebinder@gmail.com>",
   "main": "./lib/dash",
   "bin": {
