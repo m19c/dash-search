@@ -4,7 +4,7 @@
   "author": "Marc Binder <marcandrebinder@gmail.com>",
   "main": "./lib/dash",
   "bin": {
-    "d": "./index.js"
+    "d": "./bin/d"
   },
   "dependencies": {
     "yargs": "~3.10.0"
