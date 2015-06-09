@@ -1,6 +1,7 @@
 {
   "name": "dash-cli",
   "version": "1.0.0",
+  "author": "Marc Binder <marcandrebinder@gmail.com>",
   "main": "./lib/dash",
   "bin": {
     "d": "./index.js"
@@ -11,5 +12,15 @@
   "devDependencies": {
     "gulp": "~3.9.0",
     "gulp-eslint": "~0.13.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrBoolean/dash-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MrBoolean/dash-cli/issues"
+  },
+  "keywords": ["dash", "mac", "documentation", "docs"],
+  "preferGlobal": true,
+  "analyze": true
 }
