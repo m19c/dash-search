@@ -1,0 +1,8 @@
+{
+  "name": "dash-cli",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-mocha": "*",
+    "gulp-eslint": "*"
+  }
+}
